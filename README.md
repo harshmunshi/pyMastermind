@@ -11,6 +11,7 @@ $ python mastermind.py
 
 This should prompt the following guide
 
+```
  Mastermind or Bulls and Cows is a popular math game in India. There is a four digit number selected by the 
 	computer at random and you need to make a guess. For each number present and NOT IN It's position you get a bull and
  	if the number is present and in it's correct position you get a cow 
@@ -24,7 +25,7 @@ This should prompt the following guide
 	THE COMPUTER HAS ALREADY PUT THE NUMBER OUT PLEASE START GUESSING THE NUMBER 
 
 Please put you four number using space:1 2 3 4 (for example)
-
+```
 ## Rules
 
 1. You guess a 4 digit unique number with spaces.
